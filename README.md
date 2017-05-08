@@ -5,7 +5,7 @@ Inspired by jQuery, DOM2048 is a small JavaScript library that makes HTML elemen
 
 ## Demo
 See a demo of Game 2048 built using DOM2048 library [here][link]
-[link]: http://www.jessicayao.com/Wrapper/
+[link]: http://http://dom2048.herokuapp.com/
 
 
 ## Public API
